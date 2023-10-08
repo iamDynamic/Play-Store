@@ -5,7 +5,7 @@ var guesstheplayer = document.getElementById("guess-the-player")
 var apps = document.getElementById("apps")
 
 apps.addEventListener("click",()=>{
-          location.href = "index.html?2222"
+          location.href = "http://127.0.0.1:5501/index.html?id=9021&ali=saq"
 })
 urlString ="http://127.0.0.1:5501/index.html?id=9021&ali=saq"
 let paramString = urlString.split('?')[1];
