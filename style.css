@@ -210,7 +210,7 @@ text-align: center;
 /*guess yhe player */
 .guess-the-player{
     margin-left: 60px;
-    border:  solid #0d1321;
+    border:  solid #cad2c5;
 
     color: #023047;
     width: 380px;
@@ -246,7 +246,9 @@ section{
     display: flex;
 }
 
-
+div:hover{
+    border: solid #0d1321;
+}
 
 
 
